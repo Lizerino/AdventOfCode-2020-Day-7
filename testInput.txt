@@ -1,0 +1,4 @@
+﻿shiny gold bags contain 2 dark red bags.
+dark red bags contain 2 purple bags.
+purple bag contain 3 red bags.
+red bag contain no other bags
